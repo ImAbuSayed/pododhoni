@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pododhoni/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Pododhoni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pododhoni/) |
+| **Get License** | [Commercial Licensing for Pododhoni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pododhoni/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `589e4a1c8145cfec1985bb27304165410646cb3ebe15e0c8a6c1e6fc6297e3cc` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

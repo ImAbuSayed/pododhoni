@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pododhoni
+
+This log tracks the cryptographic history and versioning for the song **Pododhoni** (pododhoni).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T05:55:31.436586 | `v1` | `589e4a1c8145cfec1985bb27304165410646cb3ebe15e0c8a6c1e6fc6297e3cc` | `07eadea1dff758678e7236f9bccf9e99192c9a3c303c15d4e8bac7fc9a3cb0a6` | `2026-05-12_pododhoni-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
