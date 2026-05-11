@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pododhoni/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pododhoni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pododhoni/) |
+| **Get License** | [Secure Licensing Rights for Pododhoni](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pododhoni/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বুকের ভেতর কিসের যেন নেশা জাগে আজ
+> তোমার চোখের তারায় দেখি মায়াবী এক সাজ
+> রাতের বুকে জ্বেলে দেবো প্রেমেরই আগুন
+> আমার মাঝেই লুকিয়ে আছে তোমারই ফাগুন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
